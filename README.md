@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently studing in MIT MYSORE, I’m interested in coding, I’m currently learning PYTHON<br>
-<img align = "right" alt="coding" with "400" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hema9_hema) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hema M) 
