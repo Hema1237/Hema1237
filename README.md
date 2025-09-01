@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HEMA M</h1>
-<h3 align="center">A passionate DATA ANALYSER from India</h3>
+<h3 align="center">A passionate AI from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hema1237&label=Profile%20views&color=0e75b6&style=flat" alt="hema1237" /> </p>
 
